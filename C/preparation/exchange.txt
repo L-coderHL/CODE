@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    void in_num(int *x)//输入10个数；
+    void exchange(int *x)//进行交换处理；
+    void out_num(int *x)//输出10个数。
+    
+    return 0;
+}
